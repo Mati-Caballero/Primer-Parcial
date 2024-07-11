@@ -64,7 +64,7 @@ def menu():
 
         match opcion:
             case 1:
-                retorno = proyectos_mayor_cincuenta(lista_proyectos)
+                retorno = proyectos_mayor_cincuenta(lista_proyectos, "Activo")
                 if retorno == CORRECTA:
                     incrementar_id()
                     if ingresar_proyecto(id_auto_incremental, lista_proyectos):

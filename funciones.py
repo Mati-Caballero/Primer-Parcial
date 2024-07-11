@@ -53,6 +53,8 @@ def mostrar_menu():
         "9) Retomar proyecto\n",
         "10) Mostar presupuestos mayores\n",
         "11) Mostrar presupuestos finalizados\n"
+        "13) Mostrar promedio de presupuesto que hayan finalizado\n"
+        "14) Obtener prepuesto de los proyectos con nombre Sistema"
         " 12) Salir\n")
 
 def menu():
@@ -410,7 +412,7 @@ def retomar_proyectos(lista_proyectos:list):
                 "Ingrese una opcion valida (S/N), Confirma retomar el proyecto? S/N: "):
                     lista_proyectos[indice]["Estado"] = ACTIVO
                     retorno = CORRECTA
-                    generar_csv("Progra-1-1er-Cuatrimestre/Primer Parcial\Proyectos.csv",lista_proyectos)
+                    generar_csv("Proyectos.csv",lista_proyectos)
         else:
             retorno = ANULADA
     return retorno

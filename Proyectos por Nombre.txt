@@ -12,3 +12,10 @@ Numero de reporte: 10
 Fecha de solicitud: 10/07/2024
 Cantidad de reportes coincidentes: 1
 
+PROYECTOS CON NOMBRE: Matutito
+ID | NOMBRE | DESCRIPCION | FECHA INICIO | FECHA FINALIZACION | PRESUPUESTO |
+13 | Matutito | River | 12/9/2018 | 12/9/2019 | 750000 | 
+Numero de reporte: 12
+Fecha de solicitud: 10/07/2024
+Cantidad de reportes coincidentes: 1
+

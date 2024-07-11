@@ -1,0 +1,70 @@
+PROYECTOS SUPERIORES AL PRESUPUESTO DE: 21000000009
+ID | NOMBRE | DESCRIPCION | FECHA INICIO | FECHA FINALIZACION | PRESUPUESTO |
+10 | Sistema | Desarrollo de un sistema avanzado de prevención y control de incendios | 14/02/2023 | 03/04/2023 | 24004546500 | 
+Numero de reporte: 1
+Fecha de solicitud: 10/07/2024
+Cantidad de reportes coincidentes: 1
+
+PROYECTOS SUPERIORES AL PRESUPUESTO DE: 500000
+ID | NOMBRE | DESCRIPCION | FECHA INICIO | FECHA FINALIZACION | PRESUPUESTO |
+10 | Sistema | Desarrollo de un sistema avanzado de prevención y control de incendios | 14/02/2023 | 03/04/2023 | 24004546500 | 
+4 | Red de Transporte Público | Mejora y ampliación de la infraestructura de transporte público | 30/03/2023 | 24/07/2023 | 937383174 | 
+3 | Sistema de Información Epidemiológica | Plataforma para el seguimiento y análisis de datos epidemiológicos | 14/06/2023 | 02/02/2024 | 850312588 | 
+9 | Investigación de Trastornos del Sueño | Estudio y tratamiento de diversos trastornos del sueño | 23/05/2023 | 03/08/2023 | 555060646 | 
+6 | Laboratorio de Microbiología | Investigación y desarrollo en microbiología aplicada | 13/07/2023 | 07/10/2025 | 325746996 | 
+7 | Planificación de Sucesión | Desarrollo de un sistema para la planificación de la sucesión en empresas | 01/01/2023 | 20/05/2023 | 231786436 | 
+5 | Royal Guard Tales | La mejor obra de ficción jamas creada. | 06/06/2021 | 03/02/2030 | 149912234 | 
+8 | Sistema de Gestión de Documentos | Desarrollo de un sistema para la gestión y archivo de documentos | 06/09/2023 | 19/05/2023 | 65296214 | 
+2 | Sistema de Planificación de Recursos | Hola jhony gil | 17/07/2023 | 18/05/2025 | 6000000 | 
+1 | Plataforma de Gestión Empresarial | Sistema de gestión de recursos empresariales para mejorar la eficiencia operativa | 13/10/2023 | 17/04/2025 | 600000 | 
+11 | Matias | Casita | 9/6/2024 | 9/6/2025 | 8540000 | 
+13 | Matutito | River | 12/9/2018 | 12/9/2019 | 750000 | 
+14 | Matias | Riverraaaa | 12/9/2018 | 12/9/2018 | 950000 | 
+15 | Matias | Riverrrrrrr carajo | 12/9/2018 | 12/9/2019 | 1100000 | 
+Numero de reporte: 2
+Fecha de solicitud: 10/07/2024
+Cantidad de reportes coincidentes: 14
+
+PROYECTOS SUPERIORES AL PRESUPUESTO DE: 9500000
+ID | NOMBRE | DESCRIPCION | FECHA INICIO | FECHA FINALIZACION | PRESUPUESTO |
+10 | Sistema | Desarrollo de un sistema avanzado de prevención y control de incendios | 14/02/2023 | 03/04/2023 | 24004546500 | 
+4 | Red de Transporte Público | Mejora y ampliación de la infraestructura de transporte público | 30/03/2023 | 24/07/2023 | 937383174 | 
+3 | Sistema de Información Epidemiológica | Plataforma para el seguimiento y análisis de datos epidemiológicos | 14/06/2023 | 02/02/2024 | 850312588 | 
+9 | Investigación de Trastornos del Sueño | Estudio y tratamiento de diversos trastornos del sueño | 23/05/2023 | 03/08/2023 | 555060646 | 
+6 | Laboratorio de Microbiología | Investigación y desarrollo en microbiología aplicada | 13/07/2023 | 07/10/2025 | 325746996 | 
+7 | Planificación de Sucesión | Desarrollo de un sistema para la planificación de la sucesión en empresas | 01/01/2023 | 20/05/2023 | 231786436 | 
+5 | Royal Guard Tales | La mejor obra de ficción jamas creada. | 06/06/2021 | 03/02/2030 | 149912234 | 
+8 | Sistema de Gestión de Documentos | Desarrollo de un sistema para la gestión y archivo de documentos | 06/09/2023 | 19/05/2023 | 65296214 | 
+Numero de reporte: 3
+Fecha de solicitud: 10/07/2024
+Cantidad de reportes coincidentes: 8
+
+PROYECTOS SUPERIORES AL PRESUPUESTO DE: 8950000
+ID | NOMBRE | DESCRIPCION | FECHA INICIO | FECHA FINALIZACION | PRESUPUESTO |
+10 | Sistema | Desarrollo de un sistema avanzado de prevención y control de incendios | 14/02/2023 | 03/04/2023 | 24004546500 | 
+4 | Red de Transporte Público | Mejora y ampliación de la infraestructura de transporte público | 30/03/2023 | 24/07/2023 | 937383174 | 
+3 | Sistema de Información Epidemiológica | Plataforma para el seguimiento y análisis de datos epidemiológicos | 14/06/2023 | 02/02/2024 | 850312588 | 
+9 | Investigación de Trastornos del Sueño | Estudio y tratamiento de diversos trastornos del sueño | 23/05/2023 | 03/08/2023 | 555060646 | 
+6 | Laboratorio de Microbiología | Investigación y desarrollo en microbiología aplicada | 13/07/2023 | 07/10/2025 | 325746996 | 
+7 | Planificación de Sucesión | Desarrollo de un sistema para la planificación de la sucesión en empresas | 01/01/2023 | 20/05/2023 | 231786436 | 
+5 | Royal Guard Tales | La mejor obra de ficción jamas creada. | 06/06/2021 | 03/02/2030 | 149912234 | 
+8 | Sistema de Gestión de Documentos | Desarrollo de un sistema para la gestión y archivo de documentos | 06/09/2023 | 19/05/2023 | 65296214 | 
+Numero de reporte: 4
+Fecha de solicitud: 10/07/2024
+Cantidad de reportes coincidentes: 8
+
+PROYECTOS SUPERIORES AL PRESUPUESTO DE: 7400000
+ID | NOMBRE | DESCRIPCION | FECHA INICIO | FECHA FINALIZACION | PRESUPUESTO |
+10 | Sistema | Desarrollo de un sistema avanzado de prevención y control de incendios | 14/02/2023 | 03/04/2023 | 24004546500 | 
+4 | Red de Transporte Público | Mejora y ampliación de la infraestructura de transporte público | 30/03/2023 | 24/07/2023 | 937383174 | 
+3 | Sistema de Información Epidemiológica | Plataforma para el seguimiento y análisis de datos epidemiológicos | 14/06/2023 | 02/02/2024 | 850312588 | 
+9 | Investigación de Trastornos del Sueño | Estudio y tratamiento de diversos trastornos del sueño | 23/05/2023 | 03/08/2023 | 555060646 | 
+6 | Laboratorio de Microbiología | Investigación y desarrollo en microbiología aplicada | 13/07/2023 | 07/10/2025 | 325746996 | 
+7 | Planificación de Sucesión | Desarrollo de un sistema para la planificación de la sucesión en empresas | 01/01/2023 | 20/05/2023 | 231786436 | 
+5 | Royal Guard Tales | La mejor obra de ficción jamas creada. | 06/06/2021 | 03/02/2030 | 149912234 | 
+8 | Sistema de Gestión de Documentos | Desarrollo de un sistema para la gestión y archivo de documentos | 06/09/2023 | 19/05/2023 | 65296214 | 
+11 | Matias | Casita | 9/6/2024 | 9/6/2025 | 8540000 | 
+Numero de reporte: 5
+Fecha de solicitud: 10/07/2024
+Cantidad de reportes coincidentes: 9
+

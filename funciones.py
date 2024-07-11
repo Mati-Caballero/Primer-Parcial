@@ -54,7 +54,7 @@ def mostrar_menu():
         "10) Mostar presupuestos mayores\n",
         "11) Mostrar presupuestos finalizados\n"
         "13) Mostrar promedio de presupuesto que hayan finalizado\n"
-        "14) Obtener prepuesto de los proyectos con nombre Sistema"
+        "14) Obtener prepuesto de los proyectos con nombre Sistema\n"
         " 12) Salir\n")
 
 def menu():
